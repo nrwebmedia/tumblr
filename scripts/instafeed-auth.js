@@ -6,7 +6,7 @@
     resolution: 'standard_resolution',
     template: '<a href="{{link}}" target="_blank" id="{{id}}"><img src="{{image}}" /></a>',
     sortBy: 'most-recent',
-    limit: 8,
+    limit: 4,
     links: false
   });
   userFeed.run();
